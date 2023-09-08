@@ -10,6 +10,18 @@
 ## About this Project
 A complete CRUD operation using Laravel and AJAX. Users can add, update and delete data smoothly because of AJAX.
 
+## How to Install
+- <b>Step 1:</b> Download the project.
+- <b>Step 2:</b> Unzip the project file and open a new terminal in the project directory.
+- <b>Step 3:</b> Run Command, composer install
+- <b>Step 4:</b> Rename the ".env.example" file to ".env".
+- <b>Step 5:</b> Create a new database in PHPMyAdmin and put the name into the ".env" file.
+- <b>Step 6:</b> Run command, php artisan migrate
+- <b>Step 7:</b> Run command, php artisan key:generate
+- <b>Step 8:</b> Run command, php artisan storage:link
+- <b>Step 9:</b> Run command, php artisan ser
+- <b>Step 10:</b> ENJOY!
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
